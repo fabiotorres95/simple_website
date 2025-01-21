@@ -51,3 +51,22 @@ img {
     width: 20%;
     height: auto;
 }
+
+.produto {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.produto img {
+    align-self: flex-start;
+}
+
+.produto h3{
+    margin-top: auto;
+    text-align: center;
+}
+
+.produto p {
+    text-align: center;
+}
