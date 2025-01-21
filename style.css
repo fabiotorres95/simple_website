@@ -41,3 +41,8 @@ nav ul li a {
     gap: 20px;
     justify-content: center;
 }
+
+img {
+    width: 100%;
+    height: auto;
+}
