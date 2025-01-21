@@ -35,7 +35,7 @@ nav ul li a {
     background-color: white;
 }
 
-.secao {
+.secao, header {
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
@@ -44,5 +44,10 @@ nav ul li a {
 
 img {
     width: 100%;
+    height: auto;
+}
+
+.logo {
+    width: 20%;
     height: auto;
 }
